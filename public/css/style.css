@@ -1,4 +1,8 @@
 body {
+  background-image: url("http://imagesci.com/img/2013/11/electric-guitar-wallpapers-for-desktop-1689-hd-wallpapers.jpg");
+  /*background-image: url("guitar.jpg"); tried and manipulated this several
+  times, even changed some directories to try to get it working but I couldn't get
+  it to work */
   text-align: right;
   color: #fff;
   font-family: 'New Rocker', cursive;
